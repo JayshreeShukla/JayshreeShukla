@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Jayshree Shukla</h1>
-<h3 align="center">I am a Bachelor's of Computer Science student at Banaras Hindu University. As a tech enthusiast, I am passionate about AI/ML, Algorithms and other tech stuff. Currently, I am working on Full Stack development.</h3>
+<h3 align="center">I am an M.Sc. Computer Science student at Department of Computer Science, University of Delhi. As a tech enthusiast, I am passionate about Data Structures and Algorithms, problem solving, web development and other tech stuff. Currently, I am working on Full Stack development.</h3>
 
 <!-- h3 align="left">Connect with me:</h3>-->
 <p align="left">
